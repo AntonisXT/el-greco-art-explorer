@@ -395,19 +395,15 @@ Contributions, bug reports, or feature suggestions are welcome via GitHub issues
 
 ---
 
-## 👤 Author
-
-**Antonis Tsiakiris**   
-🔗 [LinkedIn](https://www.linkedin.com/in/antonis-tsiakiris-880114359)
-
----
-
 ## 📜 License
 [MIT License](LICENSE) © 2025 [AntonisXT](https://github.com/AntonisXT)
 
 ---
 
-<p align="center">Built with ❤️ by <a href="https://github.com/AntonisXT">AntonisXT</a> — A portfolio and learning showcase project.</p>
+<p align="center">
+  Built with ❤️ by <a href="https://github.com/AntonisXT">Antonis Tsiakiris</a> · 
+  <a href="https://www.linkedin.com/in/antonis-tsiakiris-880114359">LinkedIn</a>
+</p>
 
 ---
 
