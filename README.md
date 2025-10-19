@@ -401,7 +401,3 @@ Contributions, bug reports, or feature suggestions are welcome via GitHub issues
 ---
 
 <p align="center">Built with ❤️ by <a href="https://www.linkedin.com/in/antonis-tsiakiris-880114359">Antonis Tsiakiris</a></p>
-
----
-
-**Keywords:** El Greco, Node.js, Express, MongoDB, Full Stack Project, Art Platform, Portfolio, Security, REST API, CSRF, Helmet, Vercel, Render
