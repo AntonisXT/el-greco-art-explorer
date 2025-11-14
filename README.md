@@ -401,8 +401,9 @@ Contributions, bug reports, or feature suggestions are welcome via GitHub issues
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/antonios-tsiakiris" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Antonios%20Tsiakiris-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a><br>
-  Built with ❤️ by Antonios Tsiakiris
+  Built with ❤️ by 
+  <a href="https://www.linkedin.com/in/antonios-tsiakiris" target="_blank">Antonios Tsiakiris</a><br><br>
+  <a href="https://www.linkedin.com/in/antonios-tsiakiris" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
