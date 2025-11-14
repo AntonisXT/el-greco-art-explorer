@@ -16,7 +16,7 @@
   <img src="docs/demo.gif" alt="El Greco Art Platform Demo" width="720">
 </p>
 
-> A full-stack interactive platform inspired by El Greco’s legacy — merging artistic presentation with modern web engineering.  
+> A full-stack interactive platform inspired by El Greco’s legacy merging artistic presentation with modern web engineering.  
 > Built with Node.js, Express, and MongoDB, it unites secure backend design (JWT, CSRF, Helmet) with a dynamic and responsive frontend experience.
 
 ---
@@ -64,14 +64,14 @@ Version **2.0** introduces a complete redesign focused on **enhanced security, i
 
 ## ✨ Key Features
 
-- 🧱 **Full-Stack Architecture** — Clear separation of backend logic, database models, and frontend rendering for maintainability.  
-- 🔒 **Secure Authentication** — JWT-based admin system with HttpOnly cookies, CSRF protection, rate limiting, and server-side validation.  
-- 🧹 **Data Sanitization & Validation** — Prevents XSS and ensures integrity across all CRUD operations.  
-- ⚡ **Optimized Performance** — Server-side pagination and query optimization for large collections (paintings, exhibitions, links).  
-- 📘 **Comprehensive REST API** — Fully documented with OpenAPI 3.0 (Swagger UI).  
-- 🖥️ **Admin CMS Dashboard** — Secure interface for creating, updating, and organizing all platform content.  
-- 💡 **Responsive Frontend** — Built with Vanilla JS (ES Modules) and async data fetching for real-time UI updates.  
-- 🚀 **Automated CI/CD** — GitHub Actions for linting, testing (Jest/Supertest), and deployment to Render & Vercel.  
+- 🧱 **Full-Stack Architecture** - Clear separation of backend logic, database models, and frontend rendering for maintainability.  
+- 🔒 **Secure Authentication** - JWT-based admin system with HttpOnly cookies, CSRF protection, rate limiting, and server-side validation.  
+- 🧹 **Data Sanitization & Validation** - Prevents XSS and ensures integrity across all CRUD operations.  
+- ⚡ **Optimized Performance** - Server-side pagination and query optimization for large collections (paintings, exhibitions, links).  
+- 📘 **Comprehensive REST API** - Fully documented with OpenAPI 3.0 (Swagger UI).  
+- 🖥️ **Admin CMS Dashboard** - Secure interface for creating, updating, and organizing all platform content.  
+- 💡 **Responsive Frontend** - Built with Vanilla JS (ES Modules) and async data fetching for real-time UI updates.  
+- 🚀 **Automated CI/CD** - GitHub Actions for linting, testing (Jest/Supertest), and deployment to Render & Vercel.  
 
 ---
 
@@ -242,11 +242,11 @@ el-greco-art-platform/
 ```
 
 ### 🧭 Highlights
-- **backend/** — Modular Express.js backend with routes, middleware, models, validation, and security logic. 
-- **frontend/** — Secure, lightweight Vanilla JS interface for admin and public content.  
-- **docs/** — Full OpenAPI documentation and project visuals.  
-- **scripts/** — Automation scripts (e.g., admin seeding).  
-- **CI/CD** — GitHub Actions, Render, and Vercel integration for automated testing and deployment.
+- **backend/** - Modular Express.js backend with routes, middleware, models, validation, and security logic. 
+- **frontend/** - Secure, lightweight Vanilla JS interface for admin and public content.  
+- **docs/** - Full OpenAPI documentation and project visuals.  
+- **scripts/** - Automation scripts (e.g., admin seeding).  
+- **CI/CD** - GitHub Actions, Render, and Vercel integration for automated testing and deployment.
 
 ---
 
