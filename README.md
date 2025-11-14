@@ -400,4 +400,4 @@ Contributions, bug reports, or feature suggestions are welcome via GitHub issues
 
 ---
 
-<p align="center">Built with ❤️ by <a href="[LinkedIn](www.linkedin.com/in/antonios-tsiakiris)">Antonios Tsiakiris</a></p>
+<p align="center">Built with ❤️ by Antonios Tsiakiris</a></p> 🔗 [LinkedIn](www.linkedin.com/in/antonios-tsiakiris)
