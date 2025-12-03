@@ -1,4 +1,4 @@
-# El Greco Art Platform v2 - Full-Stack Interactive Platform for Art Exploration & Admin Management
+# El Greco Art Explorer – Full-Stack Web App for Artwork Browsing & Admin Management
 
 <p align="center">
   <a href="https://github.com/AntonisXT/el-greco-art-platform/releases">
@@ -16,8 +16,8 @@
   <img src="docs/demo.gif" alt="El Greco Art Platform Demo" width="720">
 </p>
 
-> A full-stack interactive platform inspired by El Greco’s legacy merging artistic presentation with modern web engineering.  
-> Built with Node.js, Express, and MongoDB, it unites secure backend design (JWT, CSRF, Helmet) with a dynamic and responsive frontend experience.
+> A full-stack educational and portfolio-oriented web application for exploring El Greco’s artworks.  
+> Features a secure admin CMS, a documented REST API, and a lightweight frontend for artwork, exhibition, and content browsing.
 
 ---
 
@@ -53,10 +53,10 @@
 
 ## 🚀 Overview
 
-The *El Greco Art Platform* is a full-stack web application that brings the artistic legacy of **Doménikos Theotokópoulos (El Greco)** into the digital era through an interactive and educational experience.  
-Designed as both an **academic and portfolio-driven project**, it combines secure backend engineering, structured data management, and a modern, responsive frontend interface.
+The **El Greco Art Explorer** is a full-stack web application built as an academic and portfolio project.  
+It provides an interactive way to browse the artworks, exhibitions, and biography of **Doménikos Theotokópoulos (El Greco)**, along with a secure admin dashboard for content management.
 
-Visitors can explore curated artworks, exhibitions, and biographical narratives, while administrators manage all content through a secure and intuitive dashboard.  
+Developed to practice full-stack architecture, backend security, clean REST API design, and modern frontend patterns, the project demonstrates real-world application structure without aiming to be a commercial platform.
 Version **2.0** introduces a complete redesign focused on **enhanced security, improved usability, and a seamless user experience** — bridging cultural heritage and modern web technology.
 
 
