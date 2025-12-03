@@ -57,8 +57,6 @@ The **El Greco Art Explorer** is a full-stack web application built as an academ
 It provides an interactive way to browse the artworks, exhibitions, and biography of **Doménikos Theotokópoulos (El Greco)**, along with a secure admin dashboard for content management.
 
 Developed to practice full-stack architecture, backend security, clean REST API design, and modern frontend patterns, the project demonstrates real-world application structure without aiming to be a commercial platform.
-Version **2.0** introduces a complete redesign focused on **enhanced security, improved usability, and a seamless user experience** — bridging cultural heritage and modern web technology.
-
 
 ---
 
