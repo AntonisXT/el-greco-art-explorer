@@ -2,11 +2,11 @@
   "rewrites": [
     {
       "source": "/api/(.*)",
-      "destination": "https://el-greco-art-platform.onrender.com/api/$1"
+      "destination": "https://el-greco-art-explorer.onrender.com/api/$1"
     },
     {
       "source": "/auth/(.*)",
-      "destination": "https://el-greco-art-platform.onrender.com/auth/$1"
+      "destination": "https://el-greco-art-explorer.onrender.com/auth/$1"
     }
   ],
   "headers": [
