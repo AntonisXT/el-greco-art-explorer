@@ -23,9 +23,9 @@
 
 ## 🌐 Live Deployment
 
-- **Frontend (Vercel):** [el-greco-art-platform.vercel.app](https://el-greco-art-platform.vercel.app)
-- **Backend (Render):** [el-greco-art-platform.onrender.com](https://el-greco-art-platform.onrender.com)
-- **API Docs (Swagger):** [el-greco-art-platform.onrender.com/api/docs](https://el-greco-art-platform.onrender.com/api/docs)
+- **Frontend (Vercel):** [el-greco-art-explorer.vercel.app](https://el-greco-art-platform.vercel.app)
+- **Backend (Render):** [el-greco-art-explorer.onrender.com](https://el-greco-art-platform.onrender.com)
+- **API Docs (Swagger):** [el-greco-art-explorer.onrender.com/api/docs](https://el-greco-art-platform.onrender.com/api/docs)
 
 ---
 
