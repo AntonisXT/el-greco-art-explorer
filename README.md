@@ -41,7 +41,6 @@
 - [Setup Instructions](#-setup-instructions)
 - [API Documentation](#-api-documentation)
 - [Testing & CI/CD](#-testing--cicd)
-- [Database Models](#-database-models)
 - [Performance & Scalability](#-performance--scalability)
 - [Screenshots](#-screenshots)
 - [Versions](#-versions)
@@ -295,21 +294,6 @@ Full OpenAPI spec is available at:
 - **Continuous Integration:** GitHub Actions workflow runs linting, testing, and build checks on each commit.  
 - **Continuous Deployment:** Automated deployment to **Vercel** (frontend) and **Render** (backend), ensuring smooth integration and delivery.  
 - **Node.js Version:** Recommended Node.js 20+ for full compatibility with CI environments.
-
----
-
-## 🗄️ Database Models
-
-| Collection | Description | Primary Fields |
-|-------------|-------------|----------------|
-| **biographies** | Stores rich text (HTML) biographical content | `title`, `content`, `updatedAt` |
-| **biographysections** | Internal structure for detailed biography segmentation | `title`, `order`, `content` |
-| **categories** | Defines the main thematic structure of artworks | `name`, `key`, `description` |
-| **subcategories** | Organizes categories into detailed thematic areas | `name`, `category`, `key` |
-| **paintings** | Artwork metadata & image buffer | `title`, `year`, `subcategory`, `imageData`, `mimeType` |
-| **exhibitions** | Title, date, location & description of exhibitions | `title`, `location`, `date`, `description` |
-| **linkitems** | Related external links and resources | `title`, `url`, `description` |
-| **users** | Admin credentials and roles | `username`, `passwordHash`, `role` |
 
 ---
 
